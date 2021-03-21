@@ -8,3 +8,7 @@ function add1(){
   x += 2;
 }
 add();
+function add(){
+var x= 0;
+ x += 3;
+}
