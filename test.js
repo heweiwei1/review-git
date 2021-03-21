@@ -14,3 +14,8 @@ var x= 0;
 }
 add();
 alert("Hello");
+function add(){
+var x = 0;
+  x += 9;
+}
+add();
