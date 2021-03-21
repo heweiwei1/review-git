@@ -7,19 +7,9 @@ function add1(){
   var x = 0;
   x += 2;
 }
-add();
-function add(){
-var x= 0;
- x += 3;
-}
-add();
-alert("Hello");
-function add(){
-var x = 0;
-  x += 9;
-}
-add();
+add1();
+alert("hihihi");
+document.write("ddd");
 function sum(a,b){
-  return a + b;
+ return a+b;
 }
-sum(1,2)
