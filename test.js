@@ -19,3 +19,7 @@ var x = 0;
   x += 9;
 }
 add();
+function sum(a,b){
+  return a + b;
+}
+sum(1,2);
