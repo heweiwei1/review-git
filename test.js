@@ -10,3 +10,6 @@ function add1(){
 add1();
 alert("hihihi");
 document.write("ddd");
+function sum(a,b){
+ return a+b;
+}
