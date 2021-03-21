@@ -12,3 +12,4 @@ function add(){
 var x= 0;
  x += 3;
 }
+add();
